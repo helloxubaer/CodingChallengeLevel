@@ -1,0 +1,5 @@
+ancestors(Cathy)
+ancestors(Kay)
+
+Astrid,Berny,Carmen,Clyde,Jade,Kimi
+Astrid,Berny,Carmen,Clyde,Galvin,Jade,Kate,Kimi
